@@ -19,7 +19,7 @@ network_security_rule_destination_address_prefix = "*"
 network_security_rule_source_port_range = "*"
 network_security_rule_destination_port_range = "*"
 
-storage_account_name = "mothistorageaccount2000"
+storage_account_name = "mothistorageaccount21235"
 storage_account_location = "West Central US"
 storage_account_tier = "Standard"
 storage_account_replication_type = "GRS"
